@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:05 +0800] "GET /hrms/quit HTTP/1.1" 200 2650 http-bio-80-exec-1 1151
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:12 +0800] "POST /hrms/login HTTP/1.1" 200 1 http-bio-80-exec-7 413
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:12 +0800] "GET /hrms/page/main.jsp HTTP/1.1" 200 3353 http-bio-80-exec-8 248
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:14 +0800] "GET /hrms/page/emp/emp_message.jsp?_=1548508574502 HTTP/1.1" 200 6779 http-bio-80-exec-9 160
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:14 +0800] "POST /hrms/page/showEmp HTTP/1.1" 200 1347 http-bio-80-exec-10 137
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:15 +0800] "GET /hrms/page/dept/dept_message.jsp?_=1548508575567 HTTP/1.1" 200 6503 http-bio-80-exec-10 125
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:15 +0800] "POST /hrms/page/showDept HTTP/1.1" 200 601 http-bio-80-exec-10 47
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:17 +0800] "GET /hrms/quit HTTP/1.1" 200 2650 http-bio-80-exec-10 11
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:23 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-10 0
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:23 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-6 0
+0:0:0:0:0:0:0:1 - - [26/Jan/2019:21:16:23 +0800] "GET /hrms/page/main.jsp HTTP/1.1" 200 2650 http-bio-80-exec-10 1
